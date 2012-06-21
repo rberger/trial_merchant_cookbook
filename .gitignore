@@ -1,0 +1,11 @@
+.rake_test_cache
+*~
+metadata.json
+.chef/*.pem
+.DS_Store
+cookbooks_opscode_rberger
+Gemfile.lock
+config/vagrant/runastack/.vagrant
+.rvmrc
+lib/doc
+.yardoc
